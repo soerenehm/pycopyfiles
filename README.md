@@ -1,4 +1,4 @@
-# PyCopyFiles
+## PyCopyFiles
 
 Copy directory tree files from source path to target path. Report of copied files is created.
 
