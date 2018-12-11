@@ -3,4 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custom
 .idea/
+*.p
+test/dir2
